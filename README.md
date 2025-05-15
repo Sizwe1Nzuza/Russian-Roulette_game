@@ -1,4 +1,5 @@
 # Russian-Roulette_game
+**You must copy this code into your own IDE (Netbeans)**
 1. Guess a number between 1 and 6
 2. If the number you guessed is the same as the bot, you will lose the game and it will end.
 3. If the number you guessed is not the same as the bot, you will win.
